@@ -1,2 +1,2 @@
-# react-dome
+# react
 React practice
